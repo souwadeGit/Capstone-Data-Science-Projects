@@ -4,3 +4,5 @@ There are three parts to my report as follows:
 Cleaning
 Visualization
 Prediction
+Random Forest
+Multiple Linear Regression
