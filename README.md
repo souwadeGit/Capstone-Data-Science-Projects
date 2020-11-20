@@ -10,6 +10,8 @@ Visualization
 
 Prediction
 
+Linear Regression
+
 Random Forest
 
 Multiple Linear Regression
