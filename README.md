@@ -12,5 +12,6 @@ Prediction
 
 Random Forest
 
-Multiple Linear Regression/n
+Multiple Linear Regression
+
 Language use: Python 3.5
